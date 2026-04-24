@@ -71,10 +71,4 @@ Each Pokémon record contains the following fields:
 
 ---
 
-## Project Structure
 
-```bash
-pokemon_pandas/
-├── pokemon_gen1_analysis.py
-├── pokemon_gen1.db
-└── README.md
